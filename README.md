@@ -18,8 +18,9 @@ Specific Objective
 - Does the production budget of a film affect the gross profit of the films sales?
 - Which genres have the highest number of votes from viewers?
 - What is the profitability of films over time?
-Requirements
-In this lab you will use your data munging and visualization skills to conduct an exploratory analysis of the dataset.
+
+#### Requirements
+In this project there is application of data munging and visualization skills to conduct an exploratory analysis of the datafiles.
 
 1. Load the Dataset with Pandas
 Import pandas with the standard alias pd and load the data into a dataframe with the any name suitable.
