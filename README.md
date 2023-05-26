@@ -1,16 +1,16 @@
 # Project-Phase-One
- Business Undestanding
+#### Business Undestanding
 
  Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. 
  This analysis aims to explore the type of films that are currently doing best at the box office. As it is assumed films with much more popularity than others are concluded as the films doing well but there is definitely more to it than that hence this analysis. This analysis gained insight from https://filmlifestyle.com/
- Data Understanding
+#### Data Understanding
  The data sources for this analysis will be pulled from several separate files.
-## tn.movie_budget.csv
-### Contents: Data about production budget of film creation and their gross profit both worldwide and domestic.
-## bom.movie_gross.csv
-### Contents: Data about profits gained from films for all available years from 2010 to 2018
-## im.db
-### Contents: Database about the ratings of films by fans of all films 
+tn.movie_budget.csv
+Contents: Data about production budget of film creation and their gross profit both worldwide and domestic.
+bom.movie_gross.csv
+Contents: Data about profits gained from films for all available years from 2010 to 2018
+im.db
+Contents: Database about the ratings of films by fans of all films 
  Main Objective 
 Which films are currently doing best at the box-office?
 
