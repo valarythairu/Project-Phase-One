@@ -23,6 +23,7 @@ Specific Objective
 #### Requirements
 In this project there is application of data munging and visualization skills to conduct an exploratory analysis of the datafiles.
 
+
 1. Load the Dataset with Pandas
 Import pandas with the standard alias pd and load the data into a dataframe with the any name suitable.
 
@@ -42,3 +43,6 @@ Films at the box-office are a continuous landmine of opportunities but some film
 - The company should have a sufficient production budget in order to invest in great film creation projects acquiring the best resources and generate high profits both domestic and worldwide.
 - The company should aim to make films in genres that have the highest number of votes which is displayed in this analysis, film genres that are at a higher voters count are definitely doing better than others.
 - The company should invest in films that have been profitable over time at the box-office as they end up doing the best at the box-office which is the goal to be achieved.
+
+### The presenation content slides are in the following link:
+https://docs.google.com/presentation/d/1aSf4qtbLcPqc5lr_XQzdtNmClWUiLu_wIy0ngx1T4wU/edit?usp=sharing
