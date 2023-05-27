@@ -31,5 +31,13 @@ Produce summary statistics, visualizations, and interpretive text describing the
 3. Explore Differences between Subsets
 Separate the data into subsets.
 
-4. Explore Correlations
-Find the features that have the strongest positive and negative correlations within each other.
+4. Explore relations
+Find the features that have the most effect on the performance of films created at the bocx-office.
+
+#### Conclusions
+Films at the box-office are a continuous landmine of opportunities but some films perform better than others and for one to succeed in this industry it is better to attempt some initiatives to be on the winning end. There are many factors that affect their performance and according to this analysis these are my recommendations:
+
+#### Recommendations
+- The company should have a sufficient production budget in order to invest in great film creation projects acquiring the best resources and generate high profits both domestic and worlwide.
+- The company should aim to make films in genres that have the highest number of votes which is displayed in this analysis, film genres that are at a higher voters count are definitely doing better than others.
+- The company should invest in films that have been profitable over time at the box-office as they end up doing the best at the box-office which is the goal to be achieved.
