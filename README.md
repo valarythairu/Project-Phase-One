@@ -20,7 +20,7 @@ Specific Objective
 - Find out genres have the highest number of votes from viewers.
 - Find the profitability of films over time.
 
-#### Requirements
+#### Mthods Used
 In this project there is application of data munging and visualization skills to conduct an exploratory analysis of the datafiles.
 
 
